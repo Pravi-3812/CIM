@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733430971 source:c:\users\admin\desktop\cim\main.cpp
+	<iostream>
+	<cmath>
+	<bits/stdc++.h>
+
